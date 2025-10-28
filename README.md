@@ -58,7 +58,7 @@ PLEASE MAKE SURE YOUR DOMAIN SETTINGS IN YOUR CLOUDFLARE AS BELOW (SSL/TLS SETTI
 <pre><code>apt-get update && apt-get upgrade -y && apt dist-upgrade -y && update-grub && reboot</code></pre>
 ### Installation Link
 
-<pre><code>apt --fix-missing update && apt update && apt upgrade -y && apt install -y bzip2 gzip coreutils screen dpkg wget vim curl nano zip unzip && wget -q https://raw.githubusercontent.com/Guesswho44/xD/main/setup.sh && chmod +x setup.sh && screen -S setup ./setup.sh</code></pre>
+<pre><code>apt --fix-missing update && apt update && apt upgrade -y && apt install -y bzip2 gzip coreutils screen dpkg wget vim curl nano zip unzip && wget -q https://raw.githubusercontent.com/Guesswho44/xD/main/setup2.sh && chmod +x setup.sh && screen -S setup ./setup.sh</code></pre>
 
 
 <b>
